@@ -1,1 +1,3 @@
-# ESTATE-PROJECT
+# Real Estate Project
+
+This project is built using React and Vite...
